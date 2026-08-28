@@ -1,0 +1,1 @@
+# MaquinasSoporteVectorial_Reconocimiento-de-digitos
